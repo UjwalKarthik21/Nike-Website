@@ -43,3 +43,5 @@ The project simulates a simple e-commerce site with features like:
 1. Clone or download this repository.
 2. Extract the files and open `Nike.html` in any modern web browser (Chrome, Firefox, Edge, etc.).
 3. No server or backend required—runs fully on the frontend.
+4.The images used are stored in images/images folder.
+5.Change the directory of the image in the html files.
